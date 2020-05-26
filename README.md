@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wozasandbox/Space%20Game/_apis/build/status/wziska.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/wozasandbox/Space%20Game/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
